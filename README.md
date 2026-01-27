@@ -5,7 +5,7 @@
 
 ### Sobre mim
 ---
- Me chamo Bruna, tenho 24 anos, sou estudante de Análise e Desenvolvimento de Sistemas. Sou apaixonada por tecnologia e estou sempre buscando aprender mais sobre desenvolvimento de software. 
+ Me chamo Bruna, tenho 25 anos, sou estudante de Análise e Desenvolvimento de Sistemas. Sou apaixonada por tecnologia e estou sempre buscando aprender mais sobre desenvolvimento de software. 
  
  **Hobbies:** Games, livros, séries  e filmes
 
